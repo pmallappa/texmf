@@ -1,3 +1,7 @@
 # texmfhome
+This folder contains whole of TEXMF local directory.
+Most classes in this file has many fathers, just not enough space to thank all the contributors.
+== Long live open community ==
 
-this is the whole of texmf home
+TEXMFHOME=<checkedout Directory>
+pdflatex <filename.tex>
